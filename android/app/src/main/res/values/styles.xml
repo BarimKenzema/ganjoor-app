@@ -7,8 +7,3 @@
         <item name="android:windowBackground">?android:colorBackground</item>
     </style>
 </resources>
-android/app/src/main/res/mipmap-hdpi/ic_launcher.png
-android/app/src/main/res/mipmap-mdpi/ic_launcher.png
-android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
-android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
